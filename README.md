@@ -1,4 +1,4 @@
-# Credit card fraud detection using machine learning and deep learning techniques
+# Exploration of deep learning techniques in fraud detection
 
 ## Aim
 This project aims to evaluate the efficacy of machine learning and deep learning algorithms in predicting credit card defaults and to discover the optimal balancing strategies that aid in improving the accuracy of the prediction. Additionally, the study will identify the optimal balancing approaches that help in predicting credit card defaults.
